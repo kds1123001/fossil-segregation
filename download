@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+checkpoints/
+predictions/
+*.npy
+*.obj
+.DS_Store
