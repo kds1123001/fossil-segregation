@@ -3,3 +3,4 @@ scipy
 scikit-image
 torch
 matplotlib
+and lastly github so you get to know this impeccable piece of project
